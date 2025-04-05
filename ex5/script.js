@@ -1,0 +1,1 @@
+let numero = prompt("Digite um valor positivo")
